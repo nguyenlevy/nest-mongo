@@ -42,6 +42,7 @@ Requirements:
 npm run install
 ```
 - Install Docker on your device.
+- Copy .env.sample file to .env and configure your environment.
 ## What I am done:
 
 Requirements
